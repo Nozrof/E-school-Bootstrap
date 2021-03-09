@@ -1,0 +1,90 @@
+body {
+  font-family: "Poppins", sans-serif !important;
+}
+
+.my-nav-title {
+  width: 160px;
+}
+.my-nav-btn {
+  font-size: 1.2rem;
+  margin: 0 30px;
+}
+.my-nav-2 {
+  width: 150px;
+  border-radius: 50px !important;
+}
+.card-edit {
+  height: 270px !important;
+  padding-top: 50px;
+  text-align: center;
+  transition-property: all;
+  transition-duration: 300ms;
+  background: #f8fffb !important;
+  margin-bottom: 20px;
+}
+.my-btn {
+  width: 40%;
+}
+.all-img {
+  width: 80px !important;
+  height: 83px !important;
+}
+.card-edit:hover {
+  transform: scale(1.1);
+  box-shadow: 10px 10px 10px rgba(149, 149, 149, 0.5);
+  background: #ffffff !important;
+}
+.background-green {
+  background-color: #f0fff0 !important;
+}
+.illustration-pic {
+  width: 100%;
+}
+.text-align {
+  text-align: center;
+  width: 100%;
+  color: #413960 !important;
+  font-weight: bolder;
+}
+
+.small-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.small-info {
+  font-size: 14px;
+  margin: 3px 0 0 4px;
+}
+
+.small-info-2 {
+  font-size: 12px;
+  margin: 5px 0 0 4px;
+}
+
+.my-card-2 {
+  padding: 16px;
+  margin-bottom: 20px;
+  border-radius: 18px !important;
+  transition-property: all;
+  transition-duration: 300ms;
+}
+
+.my-card-2:hover {
+  transform: scale(1.05);
+  box-shadow: 10px 10px 10px rgba(149, 149, 149, 0.5);
+}
+.man-img {
+  width: 100%;
+}
+.footer-color {
+  background: #282531 !important;
+}
+.footer-link {
+  text-decoration: none;
+  display: block;
+  color: #f0fff0 !important;
+}
+.footer-last {
+  text-align: center;
+}
